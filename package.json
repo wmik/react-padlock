@@ -1,10 +1,11 @@
 {
-  "name": "react",
+  "name": "react-padlock",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Padlock component with lock/unlock animation behavior based on CSS.",
   "keywords": [
+    "padlock",
     "react",
-    "starter"
+    "component"
   ],
   "main": "src/index.js",
   "dependencies": {
